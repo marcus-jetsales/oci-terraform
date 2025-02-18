@@ -1,0 +1,6 @@
+tenancy_ocid     = "ocid1.tenancy.oc1..aaaaaaaa6hga6ofpuvw4piuzvxbuj35svlv3maffec2oiagw5rarxul4zpza"
+user_ocid        = "ocid1.user.oc1..aaaaaaaamjeoi23434jmz6ca5ejefvwpbp6pqiyksmo2samhpnhuyerfdyuq"
+fingerprint      = "c3:f3:a8:02:67:b5:cd:98:db:90:68:8b:6a:a4:f9:bf"
+private_key_path = "/home/marcus/.ssh/marcus.silva@jetsalesbrasil.com.br_2025-02-18T18_58_25.226Z.pem"
+region           = "sa-saopaulo-1"
+compartment_id   = "ocid1.compartment.oc1..aaaaaaaa7osmijyqnxrgz35nntjredeu7f4xrfa2oazglvrlg6b2txzpupwq"
